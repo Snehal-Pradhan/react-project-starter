@@ -1,0 +1,21 @@
+- run npm start to run the project
+
+- ctrl + c => exit
+
+-import react and react dom
+- react helps in making components and how they worktogether
+- react dom helps in showing them in a browser
+
+
+---
+
+- jsx?
+- jsx code  - gets converted via bable to react components 
+- sends intsruction to react to create components
+- needs a return to show elrements.
+- {} gives us js reference
+- react can handle string but doesnt know how to render bool, undefined,
+- rendering obj will show error message
+- unexpected behaviour with arrays
+- [1,2,3]=>123 ; does this when rendered as doest ubderstand array
+ 
